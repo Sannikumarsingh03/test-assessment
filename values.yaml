@@ -1,3 +1,14 @@
 # using command for deploying my chart on my cluster
 
-# 
+
+# used helm package inititally to package the application 
+#  then used helm install for deployment 
+
+# commands 
+
+
+# ls /home/ubuntu/Code/assignment/java-tomcat-sample/Chart.yaml
+
+# helm package /home/ubuntu/Code/assignment/java-tomcat-sample
+
+# helm install my-app /home/ubuntu/Code/assignment/java-tomcat-sample
