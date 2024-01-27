@@ -1,0 +1,5 @@
+apiVersion: v2
+name: my-app  # Replace with a valid and unique name
+description: A Helm chart for deploying a Java Tomcat application
+version: 0.1.0
+
